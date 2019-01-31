@@ -59,7 +59,7 @@ def dennis_ritchies_language
 end
 
 def adding_matz
-# add the following information to the top level of programmer_hash
+# add matz to the TOP level of programmer_hash
 
 	programmer_hash =
  		{
